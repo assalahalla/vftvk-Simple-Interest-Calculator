@@ -1,7 +1,7 @@
 body 
 {
-    background-color: #000000;
-    color: #ffffff;
+    background-color:black;
+    color: white;
     font-family: Arial;
 }
 
@@ -13,19 +13,13 @@ h1
 
 .maindiv
 {
-    background-color: #ffffff;
-    color: #000000;
-    width: 500px;
+    background-color: white;
+    color: black;
+    width: 300px;
     padding: 20px;
     border-radius: 25px;
-    margin-left: auto;
-    margin-right: auto;
+    box-align:center;
 }
-
-/* #result
-{
-    display: none;
-} */
 
 .contents
 {
